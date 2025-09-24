@@ -230,7 +230,8 @@ python server.py
 ```
 А также запускаем с двух терминалов двух клиентов с помощью кода
 ```
-
+source venv/bin/activate
+python client.py
 ```
 и вводим их имена. Теперь клиенты могут общаться между собой.
 <img width="1252" height="599" alt="image" src="https://github.com/user-attachments/assets/f79c6481-6446-4ae2-87be-947e9306ab4f" />

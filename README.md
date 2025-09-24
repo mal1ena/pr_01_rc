@@ -239,5 +239,6 @@ python client.py
 ## Шаг 4. Дополнительный сервер
 Кроме этого, был создан html файл, который реализует онлайн-чат через браузер с помощью кода python3 -m http.server 8000
 
-<img width="769" height="700" alt="image" src="https://github.com/user-attachments/assets/b4664bc6-f0a8-467c-82f5-2b5e283d2ce6" />
+<img width="1351" height="722" alt="image" src="https://github.com/user-attachments/assets/13da29ca-d8bb-414d-9730-616b213b5f70" />
+
 

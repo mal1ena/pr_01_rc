@@ -24,7 +24,7 @@ Protocol Buffers (Protobuf);
 
 ## Шаг 2. Реализация сервера
 
-server.py
+server.py (https://github.com/mal1ena/pr_01_rc/blob/main/server.py)
 ```
 import asyncio
 import websockets
@@ -120,7 +120,7 @@ if __name__ == "__main__":
     server = ChatServer()
     asyncio.run(server.start_server())
 ```
-client.py
+client.py (https://github.com/mal1ena/pr_01_rc/blob/main/client.py)
 ```
 import asyncio
 import websockets

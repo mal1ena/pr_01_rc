@@ -26,7 +26,7 @@ source venv/bin/activate
 ```
 •Установливаем библиотеки Websocet
 ```
-pip install websocets asyncio
+pip install websockets asyncio
 ```
 <img width="834" height="565" alt="image" src="https://github.com/user-attachments/assets/8fbb6596-7484-4930-851c-ae72b7286942" />
 

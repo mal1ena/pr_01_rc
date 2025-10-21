@@ -13,12 +13,21 @@ Protocol Buffers (Protobuf);
 
 ## Шаг 1. Подготовка окружения(Ubuntu 20.04+)
 •Обновляем пакеты и установливаем Python
-
+```
+sudo apt update
+sudo apt install python3 python3-pip python3-venv -y
+```
 •Создаем и активируем виртуальное
 окружение
-
+```
+cd websocet_lab
+python3 -m venv venv
+source venv/bin/activate
+```
 •Установливаем библиотеки Websocet
-
+```
+pip install websocets asyncio
+```
 <img width="834" height="565" alt="image" src="https://github.com/user-attachments/assets/8fbb6596-7484-4930-851c-ae72b7286942" />
 
 
